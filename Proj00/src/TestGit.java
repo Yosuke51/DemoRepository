@@ -6,6 +6,8 @@ public class TestGit {
 		
 		System.out.println("ABC");
 		
+		System.out.println("XXX");
+		
 
 	}
 
