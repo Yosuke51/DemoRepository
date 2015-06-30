@@ -6,6 +6,7 @@ public class Test01 {
 		
 		System.out.println("OAO");
 
+		System.out.println("SSS");
 	}
 
 }
